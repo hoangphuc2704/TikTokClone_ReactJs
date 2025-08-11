@@ -1,0 +1,7 @@
+// This FILE: Import these file different into this file. After use this file to import into main.jsx to use global code 
+
+// Import in order to avoid error
+@import "normalize.css";
+@import "variale.module.scss";
+@import "mixins.module.scss";
+@import "global.module.scss";

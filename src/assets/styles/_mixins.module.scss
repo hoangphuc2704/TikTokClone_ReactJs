@@ -1,0 +1,4 @@
+// This FILE: Block code shared, resuse. And can change dynamic code inside that block code
+@mixin radius_common($radius: 10px) {
+  border-radius: $radius;
+}
